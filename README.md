@@ -1,2 +1,2 @@
 # tp_utils
-utils for dealing wih turnpoint lists
+utils for dealing with turnpoint lists
